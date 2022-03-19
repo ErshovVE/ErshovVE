@@ -3,8 +3,8 @@
 <hr>
 <h3 align="center">Мои контакты:</h3>
 <p align="center">
-  <a href="mailto:vladershov95@gmail.com" target="blank"><img align="center" src="https://github.com/ErshovVE/profile-info/raw/main/icon/mail.svg?raw=true" alt="vladershov95@gmail.com" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/Ershov_VE" target="blank"><img align="center" src="https://github.com/ErshovVE/profile-info/raw/main/icon/telegram.svg?raw=true" alt="Ershov_VE" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vladershov95@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/IVZaytsev/IVZaytsev/main/icon/mail.svg" alt="vladershov95@gmail.com" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/Ershov_VE" target="blank"><img align="center" src="https://raw.githubusercontent.com/IVZaytsev/IVZaytsev/main/icon/telegram.svg" alt="Ershov_VE" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 <h3 align="center">Это я изучаю, на этом пишу и этим пользуюсь:</h3>
