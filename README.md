@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center">Мои контакты:</h3>
 <p align="center">
-  <a href="mailto:vladershov95@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRVtvwuFkDALIRuFDuvHKxscW7nM5ishGf9g&usqp=CAU" alt="vladershov95@gmail.com" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vladershov95@gmail.com" target="blank"><img align="center" src="https://pngset.com/images/email-icon-light-blue-first-aid-envelope-logo-symbol-transparent-png-1088648.png" alt="vladershov95@gmail.com" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Ershov_VE" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Ershov_VE" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
